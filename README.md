@@ -19,4 +19,4 @@ Finally, you wil have to enter in order, the words of your list.
 You'll get your results (correct answers) at the end
 
 ### Credits
-Made only by me (lol) and only with PowerShell ❤
+Made with ❤ with PowerShell
